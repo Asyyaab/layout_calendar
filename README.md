@@ -45,4 +45,7 @@ This is possible because [we use the Parcel library](https://en.parceljs.org/scs
 reflects in changing calendar layout
 - [ ] Each day has no modifiers, only class (eg. calendar__day)
 - [ ] All `Typical Mistakes` from `BEM` lesson theory are checked.
-- [ ] Code follows all the [Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
+- [ ] Code follows all the
+
+
+[Code Style Rules ❗️](https://mate-academy.github.io/layout_task-guideline/html-css-code-style-rules)
